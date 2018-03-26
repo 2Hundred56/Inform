@@ -59,12 +59,6 @@ Part 4 - Things to Carry
 
 The carrying capacity of the player is 2.
 
-Every turn:
-	if the player is holding a cracker:
-		now the carrying capacity of the player is 17;
-	otherwise:
-		now the carrying capacity of the player is 2.
-
 A cracker is a kind of edible thing.
 
 A case is a kind of openable container.
@@ -135,7 +129,7 @@ The cabin bed is a bed in Cabin Main Area. The printed name of the cabin bed is 
 
 The cabin main area chest is a closed openable container in Cabin Main Area. The printed name of the cabin main area chest is "old wooden chest". There are 100 crackers and three flashlights in the cabin main area chest. The cabin main area chest is fixed in place.
 
-The log cabin door is a door. The printed name of the log cabin door is "door to the cabin". The log cabin door is east of Cabin Main Area. The log cabin door is closed and locked. The description of the log cabin key is "This key should unlock the log cabin door."
+The log cabin door is a door. The printed name of the log cabin door is "door to the cabin". The log cabin door is east of Cabin Main Area. The log cabin door is closed and locked. The log cabin key unlocks the log cabin door. The printed name of the log cabin key is "small metal key". The description of the log cabin key is "This key should unlock the log cabin door."
 
 Part 2 - The Basement
 
@@ -174,9 +168,6 @@ Highway 5 is north of Highway 4. "A dusty footpath that extends to the north and
 Instead of going south in Highway 1: now the player is in Highway 5.
 
 Instead of going north in Highway 5: now the player is in Highway 1.
-
-Part 4 - In the maze
-The Crazy House is east of Highway 5. "You are in a house. Hooray! There is a hole in the ground."
 
 Book 3 - Releasing
 

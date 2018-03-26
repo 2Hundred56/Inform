@@ -7,6 +7,7 @@
         <result xml:space="preserve">
 
 
+
 You awake with no memories of who you are.
 
 Absurdist Octo-shrimp
@@ -3668,25 +3669,6 @@ It seems to be locked.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-<<<<<<< Updated upstream
-    <item nodeId="node-1448">
-        <command xml:space="preserve">i</command>
-        <result xml:space="preserve">That's not a verb I recognise.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1450"></child>
-        </children>
-    </item>
-    <item nodeId="node-1450">
-        <command xml:space="preserve">i</command>
-        <result xml:space="preserve">That's not a verb I recognise.
-
-&gt;</result>
-        <commentary xml:space="preserve"></commentary>
-    </item>
-=======
->>>>>>> Stashed changes
     <item nodeId="node-1338">
         <command xml:space="preserve">get on bed</command>
         <result xml:space="preserve">You get onto the moth-eaten old bed.
