@@ -3,7 +3,7 @@
     <story>
         <identification>
             <ifid>91CC6DC1-B9E4-4FE5-BC18-971B2829EFF8</ifid>
-            <format>zcode</format>
+            <format>glulx</format>
         </identification>
         <bibliographic>
             <title>Absurdist Octo-shrimp</title>
@@ -29,10 +29,10 @@
             <generatorversion>6M62</generatorversion>
             <originated>2018-03-26</originated>
         </colophon>
-        <zcode>
+        <glulx>
             <serial>180326</serial>
             <release>1</release>
             <compiler>Inform 7 build 6M62</compiler>
-        </zcode>
+        </glulx>
     </story>
 </ifindex>

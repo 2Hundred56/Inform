@@ -10,8 +10,8 @@ release to "/Users/Sunlight4/Documents/Inform/AbsurdistOctoShrimp.materials/Rele
 
 ! Blorb instructions
 
-storyfile leafname "Absurdist Octo-shrimp.zblorb"
-storyfile "/Users/Sunlight4/Documents/Inform/AbsurdistOctoShrimp.inform/Build/output.z8" include
+storyfile leafname "Absurdist Octo-shrimp.gblorb"
+storyfile "/Users/Sunlight4/Documents/Inform/AbsurdistOctoShrimp.inform/Build/output.ulx" include
 ifiction "/Users/Sunlight4/Documents/Inform/AbsurdistOctoShrimp.inform/Metadata.iFiction" include
 cover "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
 picture 1 "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
@@ -32,13 +32,13 @@ placeholder [BLURB] = "A work of interactive fiction."
 
 ! Website instructions
 
-placeholder [ENCODEDSTORYFILE] = "Absurdist Octo-shrimp.zblorb.js"
+placeholder [ENCODEDSTORYFILE] = "Absurdist Octo-shrimp.gblorb.js"
 template path "/Users/Sunlight4/Documents/Inform/AbsurdistOctoShrimp.materials/Templates"
 template path "/Users/Sunlight4/Library/Inform/Templates"
 template path "/Applications/Inform.app/Contents/Resources/Internal/Templates"
 placeholder [INTERPRETERSCRIPTS] = " "
-interpreter "Parchment" "z"
-base64 "/Users/Sunlight4/Documents/Inform/AbsurdistOctoShrimp.inform/Build/output.z8" to "/Users/Sunlight4/Documents/Inform/AbsurdistOctoShrimp.materials/Release/interpreter/Absurdist Octo-shrimp.zblorb.js"
+interpreter "Quixe" "g"
+base64 "/Users/Sunlight4/Documents/Inform/AbsurdistOctoShrimp.inform/Build/output.ulx" to "/Users/Sunlight4/Documents/Inform/AbsurdistOctoShrimp.materials/Release/interpreter/Absurdist Octo-shrimp.gblorb.js"
 
 ! Website instructions
 
@@ -47,7 +47,7 @@ template path "/Users/Sunlight4/Library/Inform/Templates"
 template path "/Applications/Inform.app/Contents/Resources/Internal/Templates"
 css
 website "Standard"
-status instruction ||&nbsp;<a href="source:story.ni#line173"><img border=0 src=inform:/doc_images/Reveal.tif></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line179"><img border=0 src=inform:/doc_images/Reveal.tif></a>||
 status alternative ||Using 'Release along with cover art', to provide something more distinctive than the default artwork above&nbsp;<a href=inform:/doc403.html><img border=0 src=inform:/doc_images/help.png></a>||
 status alternative ||Using 'Release along with a file of "Such-and-Such" called "whatever.pdf"', perhaps to add a manual, or a welcoming note&nbsp;<a href=inform:/doc401.html><img border=0 src=inform:/doc_images/help.png></a>||
 status alternative ||Using 'Release along with the source text'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||

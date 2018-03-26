@@ -7,7 +7,6 @@
         <result xml:space="preserve">
 
 
-
 You awake with no memories of who you are.
 
 Absurdist Octo-shrimp
@@ -3672,7 +3671,7 @@ It seems to be locked.
     </item>
     <item nodeId="node-1448">
         <command xml:space="preserve">i</command>
-        <result xml:space="preserve">You are carrying nothing.
+        <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
@@ -3681,7 +3680,7 @@ It seems to be locked.
     </item>
     <item nodeId="node-1450">
         <command xml:space="preserve">i</command>
-        <result xml:space="preserve">You are carrying nothing.
+        <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
