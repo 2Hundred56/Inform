@@ -76,6 +76,7 @@ Instead of opening a case (called the item) when the player is holding the item:
 Instead of taking a case (called the item) when the item is open:
 	try closing the item;
 	try taking the item.
+	
 
 Part 5 - Furniture
 
@@ -138,7 +139,7 @@ The log cabin door is a door. The printed name of the log cabin door is "door to
 
 Part 2 - The Basement
 
-The basement trapdoor is a door. The printed name of the basement trapdoor is "wooden trapdoor". The basement trapdoor is down from Cabin Main Area. The description of the basement trapdoor is "An old trapdoor, with its hinges badly rusted." The basement trapdoor is closed and locked. The basement key unlocks the basement trapdoor. The printed name of the basement key is "small metal key". The description of the basement key is "It seems this key will fit the trapdoor in the log cabin." The basement key is in the cabin main area chest.
+The basement trapdoor is a door. The printed name of the basement trapdoor is "wooden trapdoor". The basement trapdoor is down from Cabin Main Area. The description of the basement trapdoor is "An old trapdoor, with its hinges badly rusted." The basement trapdoor is closed and locked. The basement key unlocks the basement trapdoor. The printed name of the basement trapdoor key is "small metal key". The description of the basement key is "It seems this key will fit the trapdoor in the log cabin." The basement key is in the cabin main area chest.
 
 Cellar is an interior room in the log cabin. "An old cellar. Suprisingly, the food here has been kept relatively well preserved." The basement trapdoor is up from the Cellar. 
 
@@ -168,11 +169,14 @@ Highway 3 is north of Highway 2. "A dusty footpath that extends to the north and
 
 Highway 4 is north of Highway 3. "A dusty footpath that extends to the north and south." The printed name of Highway 4 is "Highway".
 
-Highway 5 is north of Highway 4. "A dusty footpath that extends to the north and south." The printed name of Highway 5 is "Highway".
+Highway 5 is north of Highway 4. "A dusty footpath that extends to the north and south. There is a house to the east." The printed name of Highway 5 is "Highway".
+
+Instead of going south in Highway 1: now the player is in Highway 5.
 
 Instead of going north in Highway 5: now the player is in Highway 1.
 
-Instead of going south in Highway 1: now the player is in Highway 5.
+Part 4 - In the maze
+The Crazy House is east of Highway 5. "You are in a house. Hooray! There is a hole in the ground."
 
 Book 3 - Releasing
 

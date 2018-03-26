@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <Skein rootNode="node-1002">
-    <generator>Inform Mac Client (Inform version 1.65/6.33/6M62)</generator>
+    <generator>Inform Mac Client (Inform version 1.64/6.33/6M62)</generator>
     <item nodeId="node-1002">
         <command xml:space="preserve">AbsurdistOctoShrimp</command>
         <result xml:space="preserve">
@@ -24,7 +24,6 @@ You can see a wooden trapdoor, a door to the cabin, three electric lights (provi
             <child nodeId="node-1344"></child>
             <child nodeId="node-1343"></child>
             <child nodeId="node-1338"></child>
-            <child nodeId="node-1448"></child>
             <child nodeId="node-1334"></child>
             <child nodeId="node-1318"></child>
             <child nodeId="node-1306"></child>
@@ -3669,6 +3668,7 @@ It seems to be locked.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
+<<<<<<< Updated upstream
     <item nodeId="node-1448">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">That's not a verb I recognise.
@@ -3685,6 +3685,8 @@ It seems to be locked.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
+=======
+>>>>>>> Stashed changes
     <item nodeId="node-1338">
         <command xml:space="preserve">get on bed</command>
         <result xml:space="preserve">You get onto the moth-eaten old bed.

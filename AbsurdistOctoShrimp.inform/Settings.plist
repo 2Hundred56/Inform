@@ -24,7 +24,11 @@
 		<key>IFSettingTestingTabHelpShown</key>
 		<false/>
 		<key>IFSettingTestingTabShownCount</key>
+<<<<<<< Updated upstream
 		<integer>6</integer>
+=======
+		<integer>2</integer>
+>>>>>>> Stashed changes
 	</dict>
 	<key>IFOutputSettings</key>
 	<dict>
