@@ -3676,6 +3676,15 @@ It seems to be locked.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1450"></child>
+        </children>
+    </item>
+    <item nodeId="node-1450">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
     </item>
     <item nodeId="node-1338">
         <command xml:space="preserve">get on bed</command>
