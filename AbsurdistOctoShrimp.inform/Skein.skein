@@ -25,6 +25,7 @@ You can see a wooden trapdoor, a door to the cabin, three electric lights (provi
             <child nodeId="node-1344"></child>
             <child nodeId="node-1343"></child>
             <child nodeId="node-1338"></child>
+            <child nodeId="node-1448"></child>
             <child nodeId="node-1334"></child>
             <child nodeId="node-1318"></child>
             <child nodeId="node-1306"></child>
@@ -3665,6 +3666,13 @@ It seems to be locked.
     <item nodeId="node-1337">
         <command xml:space="preserve">take key</command>
         <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1448">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>

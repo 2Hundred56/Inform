@@ -132,7 +132,7 @@ The log cabin door is a door. The printed name of the log cabin door is "door to
 
 Part 2 - The Basement
 
-The basement trapdoor is a door. The printed name of the basement trapdoor is "wooden trapdoor". The basement trapdoor is down from Cabin Main Area. The description of the basement trapdoor is "An old trapdoor, with its hinges badly rusted." The basement trapdoor is closed and locked. The basement key unlocks the basement trapdoor. The printed name of the basement trapdoor key is "small metal key". The description of the basement key is "It seems this key will fit the trapdoor in the log cabin." The basement key is in the cabin main area chest.
+The basement trapdoor is a door. The printed name of the basement trapdoor is "wooden trapdoor". The basement trapdoor is down from Cabin Main Area. The description of the basement trapdoor is "An old trapdoor, with its hinges badly rusted." The basement trapdoor is closed and locked. The basement key unlocks the basement trapdoor. The printed name of the basement key is "small metal key". The description of the basement key is "It seems this key will fit the trapdoor in the log cabin." The basement key is in the cabin main area chest.
 
 Cellar is an interior room in the log cabin. "An old cellar. Suprisingly, the food here has been kept relatively well preserved." The basement trapdoor is up from the Cellar. 
 
